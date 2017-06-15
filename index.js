@@ -50,7 +50,7 @@ var ReactDisqus = function (_React$Component) {
               "Please enable JavaScript to view the",
               _react2.default.createElement(
                 "a",
-                { href: "http://disqus.com/?ref_noscript" },
+                { href: "//disqus.com/?ref_noscript" },
                 "comments powered by Disqus."
               )
             )
